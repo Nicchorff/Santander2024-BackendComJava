@@ -44,7 +44,7 @@ public class SwitchCase {
     }
 
     static void fazerLigacao(String candidato){
-        int tentavaRealizda = 0;
+        int tentavaRealizda = 1;
         var continuarTentando = true;
         var atendeu = false;
 
