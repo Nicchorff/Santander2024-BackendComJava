@@ -1,6 +1,6 @@
 package edu.pedro.poo;
 
-public class Carro {
+public class Carro extends Veiculo{
     public void ligar(){
         conferirCambio();
         conferirCombustivel();
