@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println(catalagoLivro.pesquisarPorAutor("A2"));
         System.out.println(catalagoLivro.pesquisarPorAnos(2020,2022));
-
+        System.out.println(catalagoLivro.pesquisarPorTitulo("L3"));
     }
 }
